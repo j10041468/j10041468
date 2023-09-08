@@ -1,4 +1,4 @@
-### Hi there 👋
+안녕하세요. 정해린의 홈페이지 입니다.
 
 <!--
 **j10041468/j10041468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
